@@ -6,7 +6,7 @@ Installation:
 3. npm start.
 
 Goto http://localhost:8080/
-![alt text](https://raw.githubusercontent.com/granddevv/React-Bootstrap-Admin-BigStar/master/public/img/logo.png)
+![alt text](https://raw.githubusercontent.com/granddevv/React-Bootstrap-Admin-BigStar/master/public/img/preview.jpg)
 
 Language & Technology:
 1. JavaScript and React.
