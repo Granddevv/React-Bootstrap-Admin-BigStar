@@ -5,6 +5,9 @@ Installation:
 2. npm install
 3. npm start.
 
+Goto http://localhost:8080/
+
+
 Language & Technology:
 1. JavaScript and React.
 2. Redux.
