@@ -6,7 +6,7 @@ Installation:
 3. npm start.
 
 Goto http://localhost:8080/
-![alt text]https://photos.google.com/photo/AF1QipOMW2iJTEtQ36KVAQxsEECY5Kte7wNozklWIcTF
+![alt text](https://photos.google.com/photo/AF1QipOMW2iJTEtQ36KVAQxsEECY5Kte7wNozklWIcTF)
 
 Language & Technology:
 1. JavaScript and React.
