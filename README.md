@@ -16,3 +16,5 @@ Language & Technology:
 
 Our company is "BigStar" startup.
 I made this admin for marketing.
+
+node backup code here. https://drive.google.com/drive/folders/1LSRdfzbn6mtpNfj4_P2lq9NJc1ueL6xL?usp=sharing
