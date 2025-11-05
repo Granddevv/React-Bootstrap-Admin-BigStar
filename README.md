@@ -21,3 +21,5 @@ I made this admin for marketing.
 [node backup code here.](https://drive.google.com/drive/folders/1LSRdfzbn6mtpNfj4_P2lq9NJc1ueL6xL?usp=sharing)
 2. Rikor Backup
 [rikor back code here](https://drive.google.com/drive/folders/1-Xo-EdyTyKEPjTk7JBzA5ilQoNLD1cuZ?usp=sharing)
+3. React Backup
+[react backup code here](https://drive.google.com/drive/folders/1-SsJvx4wXgMcCagkb7vkufEJlNpYfCZR?usp=sharing)
