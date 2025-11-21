@@ -25,3 +25,5 @@ I made this admin for marketing.
 [react backup code here](https://drive.google.com/drive/folders/1-SsJvx4wXgMcCagkb7vkufEJlNpYfCZR?usp=sharing)
 4. Angular Backup
 [angular backup here] (https://drive.google.com/drive/folders/1UmCBOur9G8Go-7M0Xfq9iWY20e_afUXC?usp=sharing)
+5. AI & Python
+[ai_python](https://drive.google.com/drive/folders/1Am0StignLdy9gxvhLz6Yn6Xtj9x6RZ93?usp=sharing)
