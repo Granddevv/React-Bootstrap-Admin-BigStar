@@ -29,3 +29,5 @@ I made this admin for marketing.
 [ai_python](https://drive.google.com/drive/folders/1Am0StignLdy9gxvhLz6Yn6Xtj9x6RZ93?usp=sharing)
 6. Rikor PDF
 [rikor_pdf](https://drive.google.com/drive/folders/1jLK-ClU1r4Eka_Dg4GC3FlgiYRifTuR2?usp=sharing)
+7. Window Work
+[window_work](https://drive.google.com/drive/folders/1jLK-ClU1r4Eka_Dg4GC3FlgiYRifTuR2?usp=sharing)
