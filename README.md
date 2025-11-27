@@ -31,3 +31,5 @@ I made this admin for marketing.
 [rikor_pdf](https://drive.google.com/drive/folders/1jLK-ClU1r4Eka_Dg4GC3FlgiYRifTuR2?usp=sharing)
 7. Window Work
 [window_work](https://drive.google.com/drive/folders/1jLK-ClU1r4Eka_Dg4GC3FlgiYRifTuR2?usp=sharing)
+8. Bio Work
+[bio_work](https://drive.google.com/drive/folders/1u2jZYUA_Qp-JVmHXR_wWSW2gM4XCzrbi?usp=sharing)
