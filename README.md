@@ -37,3 +37,5 @@ I made this admin for marketing.
 [client info](https://drive.google.com/drive/folders/1qMs3c5ErTarOLVRTeJxU1rdXszQfkrbm?usp=sharing)
 10. Client Information 2
 [client info 2](https://drive.google.com/drive/folders/1eOixsNqKGDgKC1IeVLkN2viNCq_2MGDU?usp=sharing)
+11. Bio 2
+[bio info](https://drive.google.com/drive/folders/11tcX1ZPkppSZ7EYajfPePa4iDWGL56g4?usp=sharing)
